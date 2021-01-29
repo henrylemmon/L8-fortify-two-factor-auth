@@ -21,4 +21,4 @@ This laravel 8 starter project uses:
 - Two Factor Authentication
 - Profile Page
 
-Created using laravel/Fortify, Following [Laravel Authentication (Breeze, Jetstream, Fortify)](https://laracasts.com/series/laravel-authentication-options) section 3 Laravel Fortify.
+Created using laravel/Fortify, Following [Laracasts.com](https://laracasts.com) Title: [Laravel Authentication (Breeze, Jetstream, Fortify)](https://laracasts.com/series/laravel-authentication-options) section 3 Laravel Fortify.
