@@ -22,6 +22,3 @@ This laravel 8 starter project uses:
 - Profile Page
 
 Created using laravel/Fortify, Following [Laravel Authentication (Breeze, Jetstream, Fortify)](https://laracasts.com/series/laravel-authentication-options) section 3 Laravel Fortify.
-
-Thank you ANDRE MADARANG
-and Jeffrey Way
